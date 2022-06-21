@@ -207,7 +207,12 @@
 @media (max-width: 375px) {
 
     /* CLASES HEADER */
-    
+    .logo {
+        animation: none;
+        position: relative;
+        padding-left: 1rem;
+        padding-bottom: 2.2rem;
+    }
 
     .header nav div {
         display: flex;
