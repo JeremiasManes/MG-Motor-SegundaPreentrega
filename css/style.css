@@ -252,4 +252,9 @@
     .sectionmediosdepago div img {
         display: none;
     }
+
+    /* CLASES CONTACTO */
+    .infocontacto img{
+        display: none;
+    }
 }
