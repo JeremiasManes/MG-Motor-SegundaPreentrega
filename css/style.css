@@ -267,8 +267,9 @@
     }
 
     .sectioncontacto div form {
-        
-        
+        row-gap: 0.2vh;
+        position: relative;
+        padding-bottom: 15vh;
     }
 
     .sectioncontacto div form h3 {
