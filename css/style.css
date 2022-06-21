@@ -211,7 +211,7 @@
         animation: none;
         position: relative;
         padding-left: 1rem;
-        padding-bottom: 2.2rem;
+        padding-bottom: 0.5rem;
     }
 
     .header nav div {
@@ -221,7 +221,8 @@
         align-content: center;
         justify-content: center;
         align-items: flex-start;
-        padding-bottom: 2vh;
+        padding-top: 0.5vh;
+        padding-bottom: 0.5vh;
         row-gap: 1.5vh;
     }
 
