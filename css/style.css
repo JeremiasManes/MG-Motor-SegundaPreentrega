@@ -221,7 +221,8 @@
         align-content: center;
         justify-content: center;
         align-items: flex-start;
-        padding-top: 1vh;
+        padding-bottom: 2vh;
+        row-gap: 1.5vh;
     }
 
     /* CLASES FOOTER */
@@ -254,7 +255,21 @@
     }
 
     /* CLASES CONTACTO */
-    .infocontacto img{
+    .infocontacto p {
+        position: relative;
+        padding-bottom: 8rem;
+    }
+
+    .infocontacto img {
+        display: none;
+    }
+
+    .sectioncontacto div form {
+        
+        
+    }
+
+    .sectioncontacto div form h3 {
         display: none;
     }
 }
